@@ -14,7 +14,7 @@
         "symfony/finder" : "^5.1",
         "symfony/filesystem" : "^5.1",
         "intervention/image": "^2.3",
-        "ps/image-optimizer": "^1.0"
+        "ps/image-optimizer": "^2.0"
     },
     "require-dev" : {
         "larapack/dd" : "^1.0",
